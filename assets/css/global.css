@@ -1,0 +1,12 @@
+.btnAdd{
+    display: none;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 10%;
+    margin: 0 auto;
+    height: 40px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+}
